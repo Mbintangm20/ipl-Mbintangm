@@ -1,5 +1,6 @@
 package openclose;
 
-public class Cinema {
+abstract class Cinema {
     public Double price;
+    abstract Double calculateAdminfee();
 }
