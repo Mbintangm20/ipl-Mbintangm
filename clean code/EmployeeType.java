@@ -1,5 +1,5 @@
-public class Employee {
-    class Employee {
+public class EmployeeType {
+    class EmployeeType {
         abstract int payAmount(Employee emp);
     }
         class Salesman {
