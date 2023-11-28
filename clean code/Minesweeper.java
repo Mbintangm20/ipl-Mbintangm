@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
 public class Minesweeper {
     public final static int STATUS_VALUE = 0;
     public final static int FLAGGED = 4;
